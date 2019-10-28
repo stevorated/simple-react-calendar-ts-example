@@ -8,9 +8,9 @@ there you can see the props and how to use them properly
 
 ## Instalation 
 
-git clone
-npm install or yarn
-npm start
+### git clone
+### npm install or yarn
+### npm start
 
 check all the commented out props, this example should be easily integrated into your own project
 
