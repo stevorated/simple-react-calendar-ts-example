@@ -3,10 +3,12 @@
 
 # simple-react-calendar-ts-example
 
+## Description 
+
 a simple example for using the calendar component,
 there you can see the props and how to use them properly
 
-## Instalation 
+## Installation 
 
 #### git clone
 #### npm install or yarn
