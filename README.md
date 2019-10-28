@@ -1,4 +1,4 @@
-==== :stew: React Simple React Calendar typeScript Example :stew: ====
+ :stew: React Simple React Calendar typeScript Example :stew: 
 ======
 
 # simple-react-calendar-ts-example
